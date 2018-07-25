@@ -16,5 +16,5 @@
 ### Details:
 
 - Author: Jeferson
-- Version: 0.0.1
+- Version: 0.0.2
 - Homepage: github.com/jefer94
